@@ -1,2 +1,3 @@
-# Blogger2_App_Academy_Prep
-http://tutorials.jumpstartlab.com/projects/blogger.html Prep work for app academy.
+# Ruby on Rails Blogger App
+Ruby on Rails blogger app based on tutorial at http://tutorials.jumpstartlab.com/projects/blogger.html
+Prep work for App Academy.
